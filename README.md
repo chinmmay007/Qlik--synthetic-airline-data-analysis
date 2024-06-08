@@ -1,5 +1,5 @@
 # Qlik--synthetic-airline-data-analysis
-Project Description
+Project Description:  
 Utilizing Qlik's analytical powers, the project's goal is to find patterns, trends, and correlations in the airline operations data to help airlines, airports, and other relevant stakeholders make decisions.
 
 DATASET LINK: https://drive.google.com/file/d/1ULd_tvj74EYEql8t-BnQKHRxYrFPrr_c/view?usp=sharing
