@@ -8,5 +8,4 @@ DASHBOARD PDF FILE: https://drive.google.com/file/d/10mgXB_pOnyoXXK6isJfnP9BmHSe
 STORYTELLING PDF FILE: https://drive.google.com/file/d/1GB655mqQ59xUKrKpAf6oODIr12kTO923/view?usp=sharing         
 PROJECT DOCUMENTATION: https://drive.google.com/file/d/1HEQorEr0_oYn2Tvi1GK7McHLJCxYjmUb/view?usp=sharing          
 VISUALIZATION LINK: https://drive.google.com/file/d/1ABQMD8u0YgT424vUi_tdKQfsyBRhKwGa/view?usp=sharing          
-PROJECT DEMONSTRATION LINK: 
-PROJECT DEMO AND WORKING: 
+PROJECT DEMONSTRATION LINK: https://drive.google.com/file/d/1Hu-GkZXGjrUjAiWKCgyKDgVOpZ1iNadi/view?usp=sharing
